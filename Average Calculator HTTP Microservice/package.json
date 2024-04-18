@@ -1,0 +1,29 @@
+{
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject"
+      } ,
+    "name": "average-calculator",
+    "version": "1.0.0",
+    "description": "A simple average calculator application",
+    "main": "index.tsx",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/username/average-calculator.git"
+    },
+    "keywords": [
+      "average",
+      "calculator"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/username/average-calculator/issues"
+    },
+    "homepage": "https://github.com/username/average-calculator#readme",
+    "dependencies": {
+      "readline-sync": "^1.4.10"
+    }
+  }
