@@ -1,0 +1,45 @@
+Acknowledgements
+The design of this app was inspired by the simple and minimalist designs of Material-UI.
+The average calculation logic uses the standard arithmetic mean formula.
+The app is built using React and React hooks for state management and rendering.
+The project structure follows the best practices for structuring a React application.
+The code is well-documented with comments to help you understand the logic behind the app.
+The app uses ESLint for code linting and formatting to ensure consistent and clean code.
+The project includes a comprehensive README file to guide you through the installation and usage of the app.
+Features
+Calculate the average of a list of numbers
+Responsive design for desktop and mobile devices
+Customizable color scheme
+Accessible for screen reader users
+Support for copy and paste of numbers
+Ability to add and remove numbers from the list
+Display the current total and count of numbers
+Ability to clear the list of numbers and reset the calculations
+App works offline and is optimized for performance
+Code is well-documented for easy understanding and contribution
+Fully responsive design
+User-friendly interface
+No server-side rendering required
+Support for deployment on platforms like Netlify, Vercel, and GitHub Pages
+Technologies
+React
+React hooks
+TypeScript
+Material-UI
+ESLint
+npm
+yarn
+prettier
+gh-pages (for deployment)
+Deployment
+To deploy the app, follow these steps:
+
+Create a GitHub repository for your project and push your code to the repository.
+Go to the repository settings on GitHub and scroll down to the GitHub Pages section.
+Select the branch you want to deploy from (usually 'main' or 'master'), and choose '/ (root)' as the folder to deploy.
+Click the 'Save' button to save your settings. Your app will be deployed and accessible via the URL 'username.github.io/averages-calculator-react-app'.
+
+
+For other deployment platforms like Netlify or Vercel, you can follow their respective documentation for deploying a React app.
+
+Happy coding!
